@@ -131,7 +131,7 @@ Ba·ruch... a·sher na·tan la·<span class="stress">sech</span>·vi vi·<span c
     heb: `
 <div class="stanza">
   <div class="slabel">Первый стих — Дварим 6:4</div>
-  <div class="p-center heb-lg"><span class="hl">שְׁמַע יִשְׂרָאֵל</span><br>יְהוָה אֱלֹהֵינוּ<br>יְהוָה <span class="hl">אֶחָד:</span></div>
+  <div class="p-center heb-lg"><span class="hl">שְׁמַע יִשְׂרָאֵל</span><br>יְהוָה אֱלֹהֵנוּ<br>יְהוָה <span class="hl">אֶחָד:</span></div>
 </div>
 <div class="stanza">
   <div class="slabel">Барух Шем (тихо)</div>
@@ -144,7 +144,7 @@ Ba·ruch... a·sher na·tan la·<span class="stress">sech</span>·vi vi·<span c
     וְהָיוּ הַדְּבָרִים הָאֵלֶּה אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם עַל-לְבָבֶךָ:<br>
     וְשִׁנַּנְתָּם לְבָנֶיךָ וְדִבַּרְתָּ בָּם בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךָ:<br>
     וּקְשַׁרְתָּם לְאוֹת עַל-יָדֶךָ וְהָיוּ לְטֹטָפֹת בֵּין עֵינֶיךָ:<br>
-    וּכְתַבְתָּם עַל-מְזֻזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ:
+    וּכְתַבְתָּם עַל-מְזֻזוֹת Bֵיתֶךָ וּבִשְׁעָרֶיךָ:
   </div>
 </div>
 <div class="stanza">
@@ -152,12 +152,12 @@ Ba·ruch... a·sher na·tan la·<span class="stress">sech</span>·vi vi·<span c
   <div class="heb-md">
     וְהָיָה אִם-שָׁמֹעַ תִּשְׁמְעוּ אֶל-מִצְוֹתַי אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם, לְאַהֲבָה אֶת-יְהוָה אֱלֹהֵיכֶם וּלְעָבְדוֹ בְּכָל-לְבַבְכֶם וּבְכָל-נַפְשְׁכֶם:<br>
     וְנָתַתִּי מְטַר-אַרְצְכֶם בְּעִתּוֹ יוֹרֶה וּמַלְקוֹשׁ, וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ:<br>
-    וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ לִבְהֶמְתֶּךָ, וְאָכַלְתָּ וְשָׂבָעְתָּ:<br>
+    וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ Lִבְהֶמְתֶּךָ, וְאָכַלְתָּ וְשָׂבָעְתָּ:<br>
     הִשָּׁמְרוּ לָכֶם פֶּן-יִפְתֶּה לְבַבְכֶם, וְסַרְתֶּם וַעֲבַדְתֶּם אֱלֹהִים אֲחֵרִים וְהִשְׁתַּחֲוִיתֶם לָהֶם:<br>
-    וְחָרָה אַף-יְהוָה בָּכֶם, וְעָצַר אֶת-הַשָּׁמַיִם וְלֹא-יִהְיֶה מָטָר, וְהָאֲדָמָה לֹא תִתֵּן אֶת-יְבוּלָהּ, וַאֲבַדְתֶּם מְהֵרָה מֵעַל הָאָרֶץ הַטֹּבָה אֲשֶׁר יְהוָה נֹתֵן לָכֶם:<br>
-    וְשַׂמְתֶּם אֶת-דְּבָרַי אֵלֶּה עַל-לְבַבְכֶם וְעַל-נַפְשְׁכֶם, וּקְשַׁרְתֶּם אֹתָם לְאוֹת עַל-יֶדְכֶם, וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֵיכֶם:<br>
-    וְלִמַּדְתֶּם אֹתָם אֶת-בְּנֵיכֶם לְדַבֵּר בָּם, בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךָ:<br>
-    וּכְתַבְתָּם עַל-מְזוּזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ:<br>
+    וְחָרָה אַף-יְהוָה Bָכֶם, וְעָצַר אֶת-הַשָּׁמַיִם וְלֹא-יִהְיֶה מָטָר, וְהָאֲדָמָה לֹא תִתֵּן אֶת-יְבוּלָהּ, וַאֲבַדְתֶּם מְהֵרָה מֵעַל הָאָרֶץ הַטֹּבָה אֲשֶׁר יְהוָה נֹתֵן לָכֶם:<br>
+    וְשַׂמְתֶּם אֶת-Dְּבָרַי אֵלֶּה עַל-לְבַבְכֶם וְעַל-נַפְשְׁכֶם, וּקְשַׁרְתָּם אֹתָם לְאוֹת עַל-יֶדְכֶם, וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֵיכֶם:<br>
+    וְלִמַּדְתֶּם אֹתָם אֶת-Bְּנֵיכֶם לְדַבֵּר Bָם, בְּשִׁבְתְּךָ בְּבֵיתֶךָ וּבְלֶכְתְּךָ בַדֶּרֶךְ וּבְשָׁכְבְּךָ וּבְקוּמֶךָ:<br>
+    וּכְתַבְתָּם עַל-מְזוּזוֹת Bֵיתֶךָ וּבִשְׁעָרֶיךָ:<br>
     לְמַעַן יִרְבּוּ יְמֵיכֶם וִימֵי בְנֵיכֶם עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יְהוָה לַאֲבֹתֵיכֶם לָתֵת לָהֶם, כִּימֵי הַשָּׁמַיִם עַל-הָאָרֶץ:
   </div>
 </div>
@@ -165,7 +165,7 @@ Ba·ruch... a·sher na·tan la·<span class="stress">sech</span>·vi vi·<span c
   <div class="slabel">Вайомер — Бамидбар 15:37–41 (Цицит)</div>
   <div class="heb-md">
     וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה לֵּאמֹר: דַּבֵּר אֶל-בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם,<br>
-    וְעָשׂוּ לָהֶם צִיצִת עַל-כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם, וְנָתְנוּ עַל-צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת:<br>
+    וְעָשׂוּ לָהם צִיצִת עַל-כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם, וְנָתְנוּ עַל-צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת:<br>
     וְהָיָה לָכֶם לְצִיצִת, וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת-כָּל-מִצְוֹת יְהוָה וַעֲשִׂיתֶם אֹתָם,<br>
     וְלֹא-תָתוּרוּ אַחֲרֵי לְבַבְכֶם וְאַחֲרֵי עֵינֵיכֶם אֲשֶׁר-אַתֶּם זֹנִים אַחֲרֵיהֶם:<br>
     לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת-כָּל-מִצְוֹתָי, וִהְיִיתֶם קְדֹשִׁים לֵאלֹהֵיכֶם:<br>
@@ -178,21 +178,35 @@ Ba·ruch... a·sher na·tan la·<span class="stress">sech</span>·vi vi·<span c
 <div class="stanza"><div class="slabel">Барух Шем</div><div class="italic muted-text">Ba·<span class="stress">ruch</span> shem ke·<span class="stress">vod</span> mal·chu·<span class="stress">to</span> le·o·<span class="stress">lam</span> va·<span class="stress">ed</span>.</div></div>
 <div class="stanza"><div class="slabel">Ве-ахавта</div><div class="trans-sm italic">
 Ve·a·<span class="stress">hav</span>·ta et A·do·<span class="stress">nai</span> E·lo·<span class="stress">he</span>·cha be·chol le·<span class="stress">vav</span>·cha u·ve·chol <span class="stress">naf</span>·she·cha u·ve·chol me·o·<span class="stress">de</span>·cha.<br>
-Ve·<span class="stress">ha</span>·yu ha·de·va·<span class="stress">rim</span>... al le·va·<span class="stress">ve</span>·cha.<br>
+Ve·<span class="stress">ha</span>·yu ha·de·va·<span class="stress">rim</span> ha·<span class="stress">e</span>·leh a·sher a·no·<span class="stress">chi</span> me·tzav·ּve·cha ha·<span class="stress">yom</span> al le·va·<span class="stress">ve</span>·cha.<br>
 Ve·shi·<span class="stress">nan</span>·tam le·va·<span class="stress">ne</span>·cha ve·di·<span class="stress">bar</span>·ta bam be·shiv·te·<span class="stress">cha</span> be·<span class="stress">ve</span>·te·cha u·ve·lech·te·<span class="stress">cha</span> va·<span class="stress">de</span>·rech u·ve·shoch·be·<span class="stress">cha</span> u·ve·ku·<span class="stress">me</span>·cha.<br>
-Uk·shar·<span class="stress">tam</span>... Uch·tav·<span class="stress">tam</span> al me·zu·<span class="stress">zot</span> bei·<span class="stress">te</span>·cha u·vish·a·<span class="stress">re</span>·cha.
+Uk·shar·<span class="stress">tam</span> le·ot al ya·<span class="stress">de</span>·cha ve·ha·yu le·to·ta·<span class="stress">fot</span> bein ei·<span class="stress">nei</span>·cha.<br>
+Uch·tav·<span class="stress">tam</span> al me·zu·<span class="stress">zot</span> bei·<span class="stress">te</span>·cha u·vish·a·<span class="stress">re</span>·cha.
+</div></div>
+<div class="stanza"><div class="slabel">Вэ-хая</div><div class="trans-sm italic">
+Ve·ha·ya im sha·mo·a tish·me·u el mitz·vo·tai a·sher a·no·chi me·tzav·ve et·chem ha·yom, le·a·ha·va et A·do·nai E·lo·hei·chem u·le·o·vdo be·chol le·vav·chem u·ve·chol naf·she·chem.<br>
+Ve·na·ta·ti me·tar ar·tze·chem be·i·to yo·re u·mal·kosh, ve·a·saf·ta de·ga·ne·cha ve·ti·rosh·cha ve·yitz·ha·re·cha.<br>
+Ve·na·ta·ti e·sev be·sa·de·cha liv·hem·te·cha, ve·a·chal·ta ve·sa·va·ta.<br>
+Hi·sha·me·ru la·chem pen yif·te le·vav·chem, ve·sar·tem va·a·vad·tem e·lo·him a·che·rim ve·hish·ta·cha·vi·tem la·hem.<br>
+Ve·cha·ra af A·do·nai ba·chem, ve·a·tzar et ha·sha·ma·yim ve·lo yih·ye ma·tar, ve·ha·a·da·ma lo ti·ten et ye·vu·lah, va·a·vad·tem me·he·ra me·al ha·a·retz ha·to·va a·sher A·do·nai no·ten la·chem.<br>
+Ve·sam·tem et de·va·rai e·leh al le·vav·chem ve·al naf·she·chem, uk·shar·tem o·tam le·ot al yed·chem, ve·ha·yu le·to·ta·fot bein ei·nei·chem.<br>
+Ve·li·mad·tem o·tam et be·nei·chem le·da·ber bam, be·shiv·te·cha be·vei·te·cha u·ve·lech·te·cha va·de·rech u·ve·shoch·be·cha u·ve·ku·me·cha.<br>
+Uch·tav·tem al me·zu·zot bei·te·cha u·vish·a·re·cha.<br>
+Le·ma·an yir·bu ye·mei·chem vi·mei ve·nei·chem al ha·a·da·ma a·sher nish·ba A·do·nai la·a·vo·tei·chem la·tet la·hem, ki·mei ha·sha·ma·yim al ha·a·retz.
 </div></div>
 <div class="stanza"><div class="slabel">Вайомер (Цицит)</div><div class="trans-sm italic">
-Va·yo·<span class="stress">mer</span> A·do·<span class="stress">nai</span> el Mo·<span class="stress">she</span>...<br>
-Ve·a·<span class="stress">su</span> la·<span class="stress">hem</span> tzi·<span class="stress">tzit</span> al kan·<span class="stress">fei</span> vig·dei·<span class="stress">hem</span>...<br>
-A·ni A·do·<span class="stress">nai</span> E·lo·hei·<span class="stress">chem</span>... <span class="stress">E</span>·met.
+Va·yo·mer A·do·nai el Mo·she le·mor.<br>
+Da·ber el be·nei Yis·ra·el ve·a·mar·ta a·le·hem, ve·a·su la·hem tzi·tzit al kan·fei vig·dei·hem le·do·ro·tam, ve·na·te·nu al tzi·tzit ha·ka·naf pe·til tche·let.<br>
+Ve·ha·ya la·chem le·tzi·tzit, u·re·i·tem o·to uz·char·tem et kol mitz·vot A·do·nai va·a·si·tem o·tam, ve·lo ta·tu·ru a·cha·rei le·vav·chem ve·cha·rei ei·nei·chem a·sher at·tem zo·nim a·cha·rei·hem.<br>
+Le·ma·an tiz·ke·ru va·a·si·tem et kol mitz·vo·tai, vi·hi·yi·tem ke·do·shim lE·lo·hei·chem.<br>
+A·ni A·do·nai E·lo·hei·chem, a·sher ho·tze·ti et·chem me·e·retz Mitz·ra·yim li·h·yot la·chem lE·lo·him — A·ni A·do·nai E·lo·hei·chem. E·met.
 </div></div>`,
     ru: `
 <div class="stanza"><div class="slabel">Шма</div><div class="p-center t-lg"><strong>Слушай, Израиль: Господь — Бог наш, Господь — един.</strong></div></div>
 <div class="stanza"><div class="slabel">Барух Шем</div><div class="muted-text">Благословенно имя Его славного царства во веки веков.</div></div>
-<div class="stanza"><div class="slabel">Ве-ахавта</div><div class="ru-sm">И возлюби Господа, Бога твоего, всем сердцем своим, и всей душой своей, и всем существом своим. И да будут слова эти на сердце у тебя. И внуши их детям своим, говори о них дома и в пути, ложась и вставая. И навяжи их знаком на руку свою... И напиши их на дверных косяках дома твоего и ворот твоих.</div></div>
-<div class="stanza"><div class="slabel">Вэ-хая</div><div class="ru-sm">Если будете слушаться заповедей Моих... любить Господа и служить Ему всем сердцем — то дам Я дождь земле вашей... Берегитесь, чтобы не соблазнилось сердце ваше... И учите им детей ваших, говоря о нём... чтобы умножились дни ваши.</div></div>
-<div class="stanza"><div class="slabel">Вайомер (Цицит)</div><div class="ru-sm">И сказал Господь Моше: говори сынам Израиля, чтобы делали они себе цицит (кисти) на краях одежд своих... И будет это для вас цицит — помнить все заповеди Господа и исполнять их... Я — Господь, Бог ваш, который вывел вас из Египта. <strong>Я Господь, Бог ваш. Истина.</strong></div></div>`,
+<div class="stanza"><div class="slabel">Ве-ахавта</div><div class="ru-sm">И возлюби Господа, Бога твоего, всем сердцем своим, и всей душой своей, и всем существом своим. И да будут слова эти, которые Я заповедую тебе сегодня, на сердце твоем. И повторяй их детям своим, и говори о них, сидя в доме твоем, и идя дорогою, и ложась, и вставая. И повяжи их как знак на руку свою, и да будут они знаками над глазами твоими. И напиши их на дверных косяках дома твоего и на воротах твоих.</div></div>
+<div class="stanza"><div class="slabel">Вэ-хая</div><div class="ru-sm">И будет так: если вы прилежно будете слушать Мои заповеди, которые Я заповедую вам сегодня, — любить Господа, Бога вашего, и служить Ему всем сердцем вашим и всей душой вашей, — то дам Я дождь земле вашей в назначенное время: ранний и поздний; и ты соберешь свой хлеб, и свое вино, и свой елей. И дам Я траву на поле твоем для скота твоего, и будешь ты есть и насыщаться. Берегитесь, чтобы не обольстилось сердце ваше, и вы не уклонились, и не стали служить иным богам, и не поклонялись им. И тогда воспылает гнев Господа на вас, и затворит Он небеса, и не будет дождя, и земля не даст своего урожая, и вы скоро исчезнете с этой доброй земли, которую Господь дает вам. Возложите же эти слова Мои на сердце ваше и на душу вашу, и повяжите их как знак на руку вашу, и да будут они знаками над глазами твоими. И учите им сыновей ваших, говоря о них, сидя в доме твоем, и идя дорогою, и ложась, и вставая. И напиши их на дверных косяках дома твоего и на воротах твоих, дабы умножились дни ваши и дни детей ваших на той земле, которую Господь поклялся дать отцам вашим, — столько времени, сколько небеса пребудут над землею.</div></div>
+<div class="stanza"><div class="slabel">Вайомер (Цицит)</div><div class="ru-sm">И сказал Господь Моше, говоря: Говори сынам Израиля и скажи им, чтобы они делали себе кисти (цицит) на углах одежд своих во всех поколениях своих, и вплетали в кисть на каждом углу синюю нить. И будет она у вас в кисти, и, смотря на нее, вы будете вспоминать все заповеди Господа и исполнять их, и не будете следовать за сердцем вашим и глазами вашими, которые влекут вас к блуду, — дабы вы помнили и исполняли все заповеди Мои и были святы пред Богом вашим. Я — Господь, Бог ваш, Который вывел вас из земли Египетской, чтобы быть вашим Богом. <strong>Я Господь, Бог ваш. Истина.</strong></div></div>`,
   },
 
   {
