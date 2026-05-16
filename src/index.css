@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700&family=Crimson+Pro:ital,wght@0,300;0,400;1,300&display=swap');
+
+:root {
+  --gold: #C9A84C; --gold-light: #E8D5A3; --gold-dim: #8B6914;
+  --bg: #0D0A06; --surface: #221C10; --border: #3A2E18;
+  --text: #F0E8D5; --text-dim: #A89870; --text-muted: #6B5C3E;
+  --hebrew: #F5EDD8;
+}
+
+/* Prayer text utility classes (used via dangerouslySetInnerHTML) */
+.heb-md {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 18px; line-height: 1.95;
+  direction: rtl; text-align: right;
+  color: var(--hebrew); font-weight: 300;
+}
+.heb-lg {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 26px; line-height: 1.7;
+  direction: rtl; text-align: right;
+  color: var(--hebrew); font-weight: 400;
+}
+.heb-sm {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 15px; line-height: 2.1;
+  direction: rtl; text-align: right;
+  color: var(--hebrew); font-weight: 300;
+}
+.hl { color: var(--gold); font-weight: 500; }
+
+.italic { font-style: italic; }
+.trans-sm {
+  font-family: 'Crimson Pro', serif;
+  font-size: 14px; line-height: 1.9;
+  direction: ltr; text-align: left;
+  color: var(--text);
+}
+.t-lg { font-size: 18px; }
+.stress { color: var(--gold-light); font-style: normal; font-weight: 500; }
+
+.ru-sm {
+  font-family: 'Crimson Pro', serif;
+  font-size: 14px; line-height: 1.9;
+  direction: ltr; text-align: left;
+  color: var(--text-dim);
+}
+
+.p-center   { text-align: center; }
+.muted-text { color: var(--text-muted); }
+.muted      { color: var(--text-muted); font-size: .88em; }
+
+.stanza            { margin-bottom: 16px; }
+.stanza:last-child { margin-bottom: 0; }
+
+.slabel {
+  font-size: 10px; letter-spacing: .15em;
+  text-transform: uppercase; color: var(--gold-dim);
+  margin-bottom: 6px; direction: ltr;
+  border-left: 2px solid var(--gold-dim);
+  padding-left: 7px;
+  font-family: 'Crimson Pro', serif;
+}
